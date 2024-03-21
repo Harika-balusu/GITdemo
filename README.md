@@ -1,2 +1,2 @@
 # GITdemo
-Hi welcome. My name is Harika Balusu. 
+Hello welcome. My name is Harika Balusu. 
